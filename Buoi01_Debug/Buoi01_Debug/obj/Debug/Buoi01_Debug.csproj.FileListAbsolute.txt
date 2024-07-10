@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2013\Projects\Buoi01_Debug\Buoi01_Debug\bin\Debug\Buoi01_Debug.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\Buoi01_Debug\Buoi01_Debug\bin\Debug\Buoi01_Debug.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Buoi01_Debug\Buoi01_Debug\bin\Debug\Buoi01_Debug.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Buoi01_Debug\Buoi01_Debug\obj\Debug\Buoi01_Debug.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\Buoi01_Debug\Buoi01_Debug\obj\Debug\Buoi01_Debug.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Buoi01_Debug\Buoi01_Debug\obj\Debug\Buoi01_Debug.pdb
+E:\LuuDuLieuSinhVien\HoangTranLeNa\Buoi01_debug\Buoi01_Debug\Buoi01_Debug\bin\Debug\Buoi01_Debug.exe.config
+E:\LuuDuLieuSinhVien\HoangTranLeNa\Buoi01_debug\Buoi01_Debug\Buoi01_Debug\obj\Debug\Buoi01_Debug.exe
+E:\LuuDuLieuSinhVien\HoangTranLeNa\Buoi01_debug\Buoi01_Debug\Buoi01_Debug\obj\Debug\Buoi01_Debug.pdb
